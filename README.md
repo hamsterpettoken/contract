@@ -1,1 +1,1 @@
-# contract
+# Hamster Pet Token Contract Deploy
